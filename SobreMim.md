@@ -4,7 +4,6 @@
 - 📫 Podem me encontrar pelo meu email: Caiofiama@hotmail.com
 
 
-<!---
-Caiofiama/Caiofiama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meus projetos ...
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4019576297183250/4169241689623555/7726196484123828/latest.html -- projeto sobre Vendas de um supermercado em sql usando o databricks.
+https://lookerstudio.google.com/reporting/d008381a-1796-4eda-9cd4-cfb24912b8c1/page/d9zpD - Visualização dos dados no DataStudio
