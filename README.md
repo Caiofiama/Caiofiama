@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Caio</h1>
 <h3 align="center">Apaixonado por analise de dados</h3>
 
-- 🔭 Atualmente estou trabalhando com analise e visualização de dados [Vendas de Supermercados(DataBricks/Sql)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4019576297183250/4169241689623555/7726196484123828/latest.html)[Vendas de Jogos(DataBricks/Sql)/(https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4019576297183250/3420146200028186/7726196484123828/latest.html)
+- 🔭 Atualmente estou trabalhando com analise e visualização de dados [Vendas de Supermercados(DataBricks/Sql)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4019576297183250/4169241689623555/7726196484123828/latest.html)[Vendas de Jogos(DataBricks/Sql)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4019576297183250/3420146200028186/7726196484123828/latest.html)
 
 - 🌱 Atualmente estou aprendendo **Sql,DataStudio**
 
