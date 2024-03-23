@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Sql,DataStudio**
 
-- 👯 E também uso o Google DataStudio [Vendas de Supermercados(DataStudio)](https://lookerstudio.google.com/reporting/d008381a-1796-4eda-9cd4-cfb24912b8c1)
+- 👯 E também uso o Google DataStudio [Vendas de Supermercados(DataStudio)](https://lookerstudio.google.com/reporting/d008381a-1796-4eda-9cd4-cfb24912b8c1)/[Análise de Campanhas por marketing(Power Bi)](https://app.powerbi.com/view?r=eyJrIjoiMTYzYmMxMGEtZGY5ZS00MjE2LTk4ZDctMzA1NDI0MjgwMDE1IiwidCI6ImFiNDM2OTA3LWVkMWQtNGJmYi05M2I0LTM4MTA1ZDFjNTAwZCJ9)
 
 - 💬 Me pergunte sobre **Sql,Excel e DataStudio**
 
