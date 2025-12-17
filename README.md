@@ -3,7 +3,7 @@
 
 Sou Desenvolvedor Full-Stack com foco em criar aplicações web modernas, performáticas e escaláveis. Trabalho com React, Next.js, TypeScript e Node.js, desenvolvendo desde interfaces dinâmicas até APIs robustas e integrações complexas com IA e sistemas em tempo real.
 
-Atuei como contribuidor principal da PlugZ Marketplace, onde implementei recursos essenciais como autenticação segura, pagamentos integrados e dashboards administrativos. Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais que realmente fazem a diferença.
+Atuo como contribuidor principal da PlugZ Marketplace, onde implementei recursos essenciais como autenticação segura, pagamentos integrados e dashboards administrativos. Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais que realmente fazem a diferença.
 
 Atualmente, dedico meu tempo a explorar IA generativa, automação inteligente e Web3, sempre buscando novas formas de unir inovação, performance e experiência do usuário.
 
