@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Caio</h1>
-<h3 align="center">Apaixonado por analise de dados</h3>
+
 
 Sou Desenvolvedor Full-Stack com foco em criar aplicações web modernas, performáticas e escaláveis. Trabalho com React, Next.js, TypeScript e Node.js, desenvolvendo desde interfaces dinâmicas até APIs robustas e integrações complexas com IA e sistemas em tempo real.
 
